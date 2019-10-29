@@ -6,8 +6,6 @@ class Book
     @author = author
   end
   
-  def title
-    @name
-  end
-  
 end
+
+book = Book.new("")
