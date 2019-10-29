@@ -1,12 +1,11 @@
 # Make your shoe class here!
 class Shoe
   
-  attr_reader :title, :brand
+  attr_reader :brand
   # attr_accessor :brand
   
-  def initialize(title)
-    @title = title
-    @brand = brand
+  def initialize(brand)
+    @brand = title
   end
   
 end
