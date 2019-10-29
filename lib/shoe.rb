@@ -9,4 +9,8 @@ class Shoe
     @brand = brand
   end
   
+  def cobble(string)
+    puts string
+  end
+  
 end
