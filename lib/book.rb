@@ -7,4 +7,3 @@ class Book
   end
   
 end
-
